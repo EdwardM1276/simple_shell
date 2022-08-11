@@ -135,6 +135,3 @@ char *error_2_cd(char **args)
 	free(hist_str);
 	return (error);
 }
-
-/**
-
